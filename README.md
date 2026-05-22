@@ -8,3 +8,9 @@ This repository contains my coursework, notes, and hands-on labs for the Databas
 ## 🧠 What I Am Learning
 
 Data storage, B-trees, RDBMS, Flat File Strawman
+
+## 🐙 What I Learned About GitHub in This Lab
+
+- How to create a new repository and initialize it with a README file  
+- How to clone a repository to my local machine and make changes  
+- How to stage, commit, and push changes back to GitHub using basic Git commands  
