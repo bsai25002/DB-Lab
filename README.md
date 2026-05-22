@@ -7,8 +7,4 @@ This repository contains my coursework, notes, and hands-on labs for the Databas
 
 ## 🧠 What I Am Learning
 
-Data storage
-B-trees
-Relational Model
-Flat File System and its issues
-SQL
+Data storage, B-trees, RDBMS, Flat File Strawman
